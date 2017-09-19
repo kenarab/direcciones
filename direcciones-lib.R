@@ -22,15 +22,20 @@ normalizeString<-function(text){
 getCleanedDIRECCION<-function(direcciones){
   direcciones<-normalizeString(direcciones)
   direcciones<-gsub("n^0","",direcciones,fixed = TRUE)
-  direcciones<-gsub(" no ","",direcciones,fixed = TRUE)
   direcciones<-gsub("^0","",direcciones,fixed = TRUE)
+  direcciones<-gsub('"u',"u",direcciones,fixed = TRUE)
   direcciones<-gsub(",","",direcciones,fixed = TRUE)
   direcciones<-gsub(".","",direcciones,fixed = TRUE)
-  direcciones<-gsub("av","",direcciones,fixed = TRUE)
   direcciones<-gsub("  "," ",direcciones)
   trimws(direcciones)
 }
 
-setupRegexp<-function(direcciones){
-  
+setupRegexp<-function(direcciones,regexp.candidates){
+  ret.regexp<-rep("",length(direcciones))
+  for (regexp in regexp.candidates){
+    #regexp<-regexp.candidates[1]
+    rows.direcciones.left<-which(nchar(ret.regexp)==0)
+    ret.regexp[grep(regexp,direcciones[rows.direcciones.left])]<-regexp
+  }
+  ret.regexp
 }
