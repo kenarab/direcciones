@@ -1,8 +1,8 @@
 source("direcciones-lib.R")
-direcciones.1<-read.csv("DATA/direcciones-1.tsv",sep="\t")
+direcciones.1<-read.csv("DATA/input/direcciones-1.tsv",sep="\t")
 direcciones.1$origin<-"D1"
 head(direcciones.1)
-direcciones.2<-read.csv("DATA/direcciones-2.tsv",sep="\t")
+direcciones.2<-read.csv("DATA/input/direcciones-2.tsv",sep="\t")
 head(direcciones.2)
 direcciones.2$origin<-"D2"
 
@@ -55,7 +55,7 @@ direcciones.2.not.parsed<-direcciones.2[which(nchar(direcciones.2$regexp)==0),]
 
 #output
 write.csv(direcciones.1,"DATA/direcciones-1-processed.csv",row.names=FALSE)
-write.csv(direcciones.1.wide.address,"DATA/direcciones-1-row 1254problem.csv",row.names=FALSE)
+write.csv(direcciones.1.wide.address,"DATA/direcciones-1-error-wide-address.csv",row.names=FALSE)
 write.csv(direcciones.2,"DATA/direcciones-2-processed.csv",row.names=FALSE)
 
 write.csv(direcciones.1.not.parsed,"DATA/direcciones-1-not-parsed.csv",row.names=FALSE)
