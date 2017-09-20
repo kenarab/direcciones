@@ -1,0 +1,93 @@
+"NOMBRE","ACTIVIDAD","DIRECCION","X","X.1","origin","DIRECCION.CLEAN","regexp","calle","numero"
+"BIBLIOTECA JAVIER VILLAFAÑE (CON ANEXO INFANTIL)","BIBLIOTECA","JANER, ANA MARIA Y TORRES Y TENORIO, PRES.",NA,NA,"D2","janer ana maria y torres y tenorio pres","","janer ana maria y torres y tenorio pres","janer ana maria y torres y tenorio pres"
+"BIBLIOTECA NORAH LANGE","BIBLIOTECA","FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y ESCALADA AV.",NA,NA,"D2","fernandez de la cruz f gral av y escalada av","","fernandez de la cruz f gral av y escalada av","fernandez de la cruz f gral av y escalada av"
+"CENTRO CULTURAL NUESTRA TIERRA","CENTRO CULTURAL","IRIARTE, GRAL. AV. Y MONTESQUIEU",NA,NA,"D2","iriarte gral av y montesquieu","","iriarte gral av y montesquieu","iriarte gral av y montesquieu"
+"COMPLEJO CULTURAL CHACRA DE LOS REMEDIOS","CENTRO CULTURAL","DIRECTORIO AV. Y LACARRA",NA,NA,"D2","directorio av y lacarra","","directorio av y lacarra","directorio av y lacarra"
+"USINA DEL ARTE","CENTRO CULTURAL","DON PEDRO DE MENDOZA AV. Y CAFFARENA, AGUSTIN R.",NA,NA,"D2","don pedro de mendoza av y caffarena agustin r","","don pedro de mendoza av y caffarena agustin r","don pedro de mendoza av y caffarena agustin r"
+"CENTRO CULTURAL BARRIO RIVADAVIA","CENTRO CULTURAL","COBO AV. Y CURAPALIGUE",NA,NA,"D2","cobo av y curapaligue","","cobo av y curapaligue","cobo av y curapaligue"
+"POLO CIRCO","CIRCO","COMBATE DE LOS POZOS Y GARAY, JUAN DE AV.",NA,NA,"D2","combate de los pozos y garay juan de av","","combate de los pozos y garay juan de av","combate de los pozos y garay juan de av"
+"AUDITORIO EVA PERON - PARQUE CENTENARIO","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","PATRICIAS ARGENTINAS AV. Y LILLO AV.",NA,NA,"D2","patricias argentinas av y lillo av","","patricias argentinas av y lillo av","patricias argentinas av y lillo av"
+"CENTRO DE MUSEOS DE BUENOS AIRES (DIRECCION GENERAL DE MUSEOS)","MUSEO","DE LOS ITALIANOS AV. Y VILLAFLOR, AZUCENA",NA,NA,"D2","de los italianos av y villaflor azucena","","de los italianos av y villaflor azucena","de los italianos av y villaflor azucena"
+"MUSEO DEL HUMOR (MUHU)","MUSEO","DE LOS ITALIANOS AV. Y VILLAFLOR, AZUCENA",NA,NA,"D2","de los italianos av y villaflor azucena","","de los italianos av y villaflor azucena","de los italianos av y villaflor azucena"
+"PLANETARIO DE LA CIUDAD DE BUENOS AIRES ""GALILEO GALILEI""","PLANETARIO","SARMIENTO AV. Y ROLDAN, BELISARIO AV.",NA,NA,"D2","sarmiento av y roldan belisario av","","sarmiento av y roldan belisario av","sarmiento av y roldan belisario av"
+"AMERICAN BAR","BAR NOTABLE","SAENZ PE�A, ROQUE, PRES. AV. 632",NA,NA,"D2",NA,"",NA,NA
+"GRUPO DE TEATRO COMUNITARIO POMPAPETRIYASS DE PARQUE PATRICIOS","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","LUCA, ESTEBAN DE Y BRASIL",NA,NA,"D2","luca esteban de y brasil","","luca esteban de y brasil","luca esteban de y brasil"
+"GRUPO DE TEATRO COMUNITARIO RES O NO RES","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","DIRECTORIO AV. Y DE LA TORRE, LISANDRO AV.",NA,NA,"D2","directorio av y de la torre lisandro av","","directorio av y de la torre lisandro av","directorio av y de la torre lisandro av"
+"TEATRO DEL PUEBLO","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","SAENZ PE�A, ROQUE, PRES. AV. 943",NA,NA,"D2",NA,"",NA,NA
+"TEATRO EL VITRAL","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","RODRIGUEZ PE�A 344",NA,NA,"D2",NA,"",NA,NA
+"GALERIA DE ARTE ADRIANA INDIK","GALERIA DE ARTE","RODRIGUEZ PE�A 2067",NA,NA,"D2",NA,"",NA,NA
+"INSTITUTO NACIONAL SAN MARTINIANO","BIBLIOTECA","CASTILLA, RAMON, MARISCAL Y AGUADO, ALEJANDRO M. DE",NA,NA,"D2","castilla ramon mariscal y aguado alejandro m de","","castilla ramon mariscal y aguado alejandro m de","castilla ramon mariscal y aguado alejandro m de"
+"BIBLIOTECA DEL ALMA MATER STUDIORUM UNIVERSIDAD DI BOLOGNA","BIBLIOTECA","RODRIGUEZ PE�A 1464",NA,NA,"D2",NA,"",NA,NA
+"BIBLIOTECA DE DEFENSA ""GENERALA JUANA AZURDUY""","BIBLIOTECA","AZOPARDO Y MORENO",NA,NA,"D2","azopardo y moreno","","azopardo y moreno","azopardo y moreno"
+"GRUPO DE TEATRO ALMA MATE DE FEORES","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","NAZCA AV. Y NEUQUEN",NA,NA,"D2","nazca av y neuquen","","nazca av y neuquen","nazca av y neuquen"
+"CASA DEL NIÑO Y EL ADOLESCENTE","ESPACIO DE FORMACION (CARRERAS, SEMINARIOS Y TALLERES)","JANER, ANA MARIA Y VEDIA, AGUSTIN DE",NA,NA,"D2","janer ana maria y vedia agustin de","","janer ana maria y vedia agustin de","janer ana maria y vedia agustin de"
+"EDICIONES CORREGIDOR","EDITORIAL","RODRIGUEZ PE�A 452",NA,NA,"D2",NA,"",NA,NA
+"LA RADIO DE LAS MADRES AM 530","RADIO LOCAL (AM Y FM)","SAENZ PE�A, LUIS, PRES. 210",NA,NA,"D2",NA,"",NA,NA
+"BRUJAS","LIBRERIA","RODRIGUEZ PE�A 429",NA,NA,"D2",NA,"",NA,NA
+"CINE ARTEPLEX CENTRO","CINE","SAENZ PE�A, ROQUE, PRES. AV. 1150",NA,NA,"D2",NA,"",NA,NA
+"LIBRERIA DE LA UNIVERSIDAD DEL SALVADOR","LIBRERIA","RODRIGUEZ PE�A 764",NA,NA,"D2",NA,"",NA,NA
+"LIBRERIA Y SU DOBLE","LIBRERIA","RODRIGUEZ PE�A 698",NA,NA,"D2",NA,"",NA,NA
+"ESCUELA ARGENTINA DE TANGO (SEDE CENTRO)","ESPACIO DE FORMACION (CARRERAS, SEMINARIOS Y TALLERES)","VIAMONTE Y SAN MARTIN",NA,NA,"D2","viamonte y san martin","","viamonte y san martin","viamonte y san martin"
+"UNIVERSIDAD DEL SALVADOR - FACULTAD DE FILOSOFIA Y LETRAS","ESPACIO DE FORMACION (CARRERAS, SEMINARIOS Y TALLERES)","RODRIGUEZ PE�A 670",NA,NA,"D2",NA,"",NA,NA
+"LIBRERIA YENNY. SUCURSAL AEROPUERTO.","LIBRERIA","OBLIGADO RAFAEL, AV.COSTANERA Y SARMIENTO AV.",NA,NA,"D2","obligado rafael avcostanera y sarmiento av","","obligado rafael avcostanera y sarmiento av","obligado rafael avcostanera y sarmiento av"
+"ESPECIAL RECORD S.H.","DISQUERIA","RODRIGUEZ PE�A 122",NA,NA,"D2",NA,"",NA,NA
+"CALESITA PLAZA ALMAGRO","CALESITA","BULNES Y SARMIENTO",NA,NA,"D2","bulnes y sarmiento","","bulnes y sarmiento","bulnes y sarmiento"
+"CALESITA DEL SPINETTO","CALESITA","ALSINA, ADOLFO Y MATHEU",NA,NA,"D2","alsina adolfo y matheu","","alsina adolfo y matheu","alsina adolfo y matheu"
+"CALESITA DE DON PEPE","CALESITA","HERRERA Y BRANDSEN",NA,NA,"D2","herrera y brandsen","","herrera y brandsen","herrera y brandsen"
+"LA CALESITA DE ANTONIO","CALESITA","IRIARTE, GRAL. AV. Y LUZURIAGA",NA,NA,"D2","iriarte gral av y luzuriaga","","iriarte gral av y luzuriaga","iriarte gral av y luzuriaga"
+"CALESITA DE LA PLAZA REPUBLICA DE MEXICO","CALESITA","LA PAMPA Y FIGUEROA ALCORTA, PRES. AV.",NA,NA,"D2","la pampa y figueroa alcorta pres av","","la pampa y figueroa alcorta pres av","la pampa y figueroa alcorta pres av"
+"CALESITA DE PARQUE RIVADAVIA","CALESITA","ROSARIO Y BEAUCHEF",NA,NA,"D2","rosario y beauchef","","rosario y beauchef","rosario y beauchef"
+"CALESITA JOSE DE PLAZA IRLANDA","CALESITA","NEUQUEN Y ALVAREZ, DONATO, TTE. GRAL.",NA,NA,"D2","neuquen y alvarez donato tte gral","","neuquen y alvarez donato tte gral","neuquen y alvarez donato tte gral"
+"CALESITA ESTACION CABALLITO","CALESITA","ROJAS Y BACACAY",NA,NA,"D2","rojas y bacacay","","rojas y bacacay","rojas y bacacay"
+"LA CALESITA DE CARLITOS","CALESITA","GALLARDO, ANGEL AV. Y PATRICIAS ARGENTINAS AV.",NA,NA,"D2","gallardo angel av y patricias argentinas av","","gallardo angel av y patricias argentinas av","gallardo angel av y patricias argentinas av"
+"LA CALESITA DE PARQUE LOS ANDES","CALESITA","ARENAL, CONCEPCION Y CORRIENTES AV.",NA,NA,"D2","arenal concepcion y corrientes av","","arenal concepcion y corrientes av","arenal concepcion y corrientes av"
+"CALESITA DE LA PLAZA MISERICORDIA","CALESITA","LAUTARO Y BILBAO, FRANCISCO",NA,NA,"D2","lautaro y bilbao francisco","","lautaro y bilbao francisco","lautaro y bilbao francisco"
+"CALESITA DE LA PLAZA GENERAL PUEYRREDON","CALESITA","YERBAL Y ARTIGAS, JOSE GERVASIO, GRAL.",NA,NA,"D2","yerbal y artigas jose gervasio gral","","yerbal y artigas jose gervasio gral","yerbal y artigas jose gervasio gral"
+"CALESITA DE LA ESTACION FLORESTA","CALESITA","SEGUROLA AV. Y FLORES, VENANCIO, GRAL.",NA,NA,"D2","segurola av y flores venancio gral","","segurola av y flores venancio gral","segurola av y flores venancio gral"
+"CALESITA EL GATO DEL POLIDEPORTIVO NUEVA CHICAGO","CALESITA","DIRECTORIO AV. Y DE LA TORRE, LISANDRO AV.",NA,NA,"D2","directorio av y de la torre lisandro av","","directorio av y de la torre lisandro av","directorio av y de la torre lisandro av"
+"CALESITA MI SUEÑO DE LA PLAZA SALABERRY","CALESITA","ALBERDI, JUAN BAUTISTA AV. Y PILAR",NA,NA,"D2","alberdi juan bautista av y pilar","","alberdi juan bautista av y pilar","alberdi juan bautista av y pilar"
+"CARROUSEL DE LOS NIÑOS DE LA PLAZA DEL CONGRESO","CALESITA","YRIGOYEN, HIPOLITO Y SAENZ PE�A, LUIS, PRES.",NA,NA,"D2",NA,"",NA,NA
+"CALESITA PEDRITO DE LA PLAZA POMPEYA","CALESITA","TRAFUL Y SAENZ AV.",NA,NA,"D2","traful y saenz av","","traful y saenz av","traful y saenz av"
+"CALESITA DE LA PLAZA BALCARCE","CALESITA","VUELTA DE OBLIGADO Y JARAMILLO",NA,NA,"D2","vuelta de obligado y jaramillo","","vuelta de obligado y jaramillo","vuelta de obligado y jaramillo"
+"CALESITA DEL JARDIN ZOOLOGICO","CALESITA","DEL LIBERTADOR AV. Y SARMIENTO AV.",NA,NA,"D2","del libertador av y sarmiento av","","del libertador av y sarmiento av","del libertador av y sarmiento av"
+"CALESITA DE LA PLAZA UNION LATINOAMERICANA","CALESITA","COSTA RICA Y MEDRANO",NA,NA,"D2","costa rica y medrano","","costa rica y medrano","costa rica y medrano"
+"CALESITA DEL PARQUE 3 DE FEBRERO","CALESITA","DEL LIBERTADOR AV. Y REPUBLICA DE LA INDIA",NA,NA,"D2","del libertador av y republica de la india","","del libertador av y republica de la india","del libertador av y republica de la india"
+"LA CALESITA DE PEDRITO DE PARQUE LAS HERAS","CALESITA","DIAZ, CNEL. AV. Y LAS HERAS GENERAL AV.",NA,NA,"D2","diaz cnel av y las heras general av","","diaz cnel av y las heras general av","diaz cnel av y las heras general av"
+"CALESITA DE LA PLAZA CAMPAÑA DEL DESIERTO","CALESITA","MALABIA Y NICARAGUA",NA,NA,"D2","malabia y nicaragua","","malabia y nicaragua","malabia y nicaragua"
+"QUEEN CARROUSEL","CALESITA","FIGUEROA ALCORTA, PRES. AV. Y SALGUERO, JERONIMO",NA,NA,"D2","figueroa alcorta pres av y salguero jeronimo","","figueroa alcorta pres av y salguero jeronimo","figueroa alcorta pres av y salguero jeronimo"
+"CALESITA JUAN CARLOS DE LA PLAZA REPUBLICA DE BOLIVIA","CALESITA","DEL LIBERTADOR AV. Y OLLEROS AV.",NA,NA,"D2","del libertador av y olleros av","","del libertador av y olleros av","del libertador av y olleros av"
+"CALESITA DE PARQUE AVELLANEDA","CALESITA","DIRECTORIO AV. Y LACARRA",NA,NA,"D2","directorio av y lacarra","","directorio av y lacarra","directorio av y lacarra"
+"LA CALESITA DE TATIN DEL PQUE. CHACABUCO","CALESITA","ASAMBLEA AV. Y MIRO",NA,NA,"D2","asamblea av y miro","","asamblea av y miro","asamblea av y miro"
+"LA CALESITA DE PARQUE PATRICIOS","CALESITA","CASEROS AV. Y PEPIRI",NA,NA,"D2","caseros av y pepiri","","caseros av y pepiri","caseros av y pepiri"
+"LA CALESITA DE DANIEL DE LA PLAZA TTE. GRAL. EMILIO MITRE","CALESITA","CANTILO Y PACHECO DE MELO, JOSE ANDRES",NA,NA,"D2","cantilo y pacheco de melo jose andres","","cantilo y pacheco de melo jose andres","cantilo y pacheco de melo jose andres"
+"CARROUSEL CLASICO","CALESITA","POSADAS Y LIBERTAD",NA,NA,"D2","posadas y libertad","","posadas y libertad","posadas y libertad"
+"CALESITA DEL PARQUE SAAVEDRA","CALESITA","GARCIA DEL RIO Y CONDE",NA,NA,"D2","garcia del rio y conde","","garcia del rio y conde","garcia del rio y conde"
+"CALESITA PLAZA ESTE DE LA ESTACION SAAVEDRA","CALESITA","BALBIN, RICARDO, DR. AV. Y PLAZA",NA,NA,"D2","balbin ricardo dr av y plaza","","balbin ricardo dr av y plaza","balbin ricardo dr av y plaza"
+"CALESITA DE LA PLAZA MARTIN FIERRO","CALESITA","BARCALA Y URQUIZA, GRAL.",NA,NA,"D2","barcala y urquiza gral","","barcala y urquiza gral","barcala y urquiza gral"
+"CALESITA DE PARQUE LEZAMA","CALESITA","DEFENSA Y FINOCHIETTO ENRIQUE DR.",NA,NA,"D2","defensa y finochietto enrique dr","","defensa y finochietto enrique dr","defensa y finochietto enrique dr"
+"CALESITA DE LA ALEGRIA DE LA PLAZA ARISTOBULO DEL VALLE","CALESITA","CAMPANA Y SASTRE, MARCOS",NA,NA,"D2","campana y sastre marcos","","campana y sastre marcos","campana y sastre marcos"
+"LA CALESITA DE PASCUALITO DE LA PLAZA SAENZ PEÑA","CALESITA","LAMAS, ANDRES Y ESCALADA DE SAN MARTIN, R.",NA,NA,"D2","lamas andres y escalada de san martin r","","lamas andres y escalada de san martin r","lamas andres y escalada de san martin r"
+"CALESITA STELLA MARIS","CALESITA","SOLDADO DE LA FRONTERA AV. Y OLASCOAGA, MANUEL JOSE, CNEL.",NA,NA,"D2","soldado de la frontera av y olascoaga manuel jose cnel","","soldado de la frontera av y olascoaga manuel jose cnel","soldado de la frontera av y olascoaga manuel jose cnel"
+"CALESITA A LOS SUEÑOS DE LOS NIÑOS DE LA PLAZA UNIDAD NACIONAL","CALESITA","MURGUIONDO Y GALLO, DELFIN",NA,NA,"D2","murguiondo y gallo delfin","","murguiondo y gallo delfin","murguiondo y gallo delfin"
+"CALESITA EL CAPRICHO","CALESITA","FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y PIEDRA BUENA AV.",NA,NA,"D2","fernandez de la cruz f gral av y piedra buena av","","fernandez de la cruz f gral av y piedra buena av","fernandez de la cruz f gral av y piedra buena av"
+"LA CALESITA DE LA PLAZA 1 DE MAYO","CALESITA","YRIGOYEN, HIPOLITO Y PASCO",NA,NA,"D2","yrigoyen hipolito y pasco","","yrigoyen hipolito y pasco","yrigoyen hipolito y pasco"
+"LIBRERIA DEL INSTITUTO","LIBRERIA","RODRIGUEZ PE�A 1054",NA,NA,"D2",NA,"",NA,NA
+"CENTRO CULTURAL HORUS","CENTRO CULTURAL","CALVO, CARLOS Y TACUARI",NA,NA,"D2","calvo carlos y tacuari","","calvo carlos y tacuari","calvo carlos y tacuari"
+"CALESITA DE LA PLAZA ECHEVERRIA","CALESITA","NAHUEL HUAPI Y BAUNESS",NA,NA,"D2","nahuel huapi y bauness","","nahuel huapi y bauness","nahuel huapi y bauness"
+"SILENCIO DE NEGRAS","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","SAENZ PE�A, LUIS, PRES. 663",NA,NA,"D2",NA,"",NA,NA
+"LA COMEDIA","ESPACIO ESCENICO (TEATRO, MUSICA Y DANZA)","RODRIGUEZ PE�A 1062",NA,NA,"D2",NA,"",NA,NA
+"INSTITUTO ESPACIO PARA LA MEMORIA","MUSEO","SAENZ PE�A, LUIS, PRES. 457",NA,NA,"D2",NA,"",NA,NA
+"MUSEO CASA DE LA MONEDA. SOCIEDAD DEL ESTADO.","MUSEO","ANTARTIDA ARGENTINA AV. Y CASTILLO, RAMON S., PRES. AV.",NA,NA,"D2","antartida argentina av y castillo ramon s pres av","","antartida argentina av y castillo ramon s pres av","antartida argentina av y castillo ramon s pres av"
+"MUSEO AL AIRE LIBRE DE ARTISTAS PLASTICOS DE CAMINITO","MUSEO","CAMINITO Y ARAOZ DE LAMADRID, GREGORIO, GRAL.",NA,NA,"D2","caminito y araoz de lamadrid gregorio gral","","caminito y araoz de lamadrid gregorio gral","caminito y araoz de lamadrid gregorio gral"
+"ALMAGESTO","LIBRERIA","RODRIGUEZ PE�A 554",NA,NA,"D2",NA,"",NA,NA
+"CLARETIANA EDITORIAL. SUCURSAL RODRIGUEZ PEÑA.","LIBRERIA","RODRIGUEZ PE�A 898",NA,NA,"D2",NA,"",NA,NA
+"LIBRERIA DEL SUBURBIO","LIBRERIA","SAN JUAN AV. Y BOEDO AV.",NA,NA,"D2","san juan av y boedo av","","san juan av y boedo av","san juan av y boedo av"
+"ESPARTACO. SUCURSAL PEÑA.","LIBRERIA","RODRIGUEZ PE�A 130",NA,NA,"D2",NA,"",NA,NA
+"GOURMAND PLACE","LIBRERIA","RODRIGUEZ PE�A 1182",NA,NA,"D2",NA,"",NA,NA
+"GUADALQUIVIR. SUCURSAL RODRIGUEZ PEÑA.","LIBRERIA","RODRIGUEZ PE�A 744",NA,NA,"D2",NA,"",NA,NA
+"MERIDIANA. SUCURSAL RODRIGUEZ PEÑA.","LIBRERIA","RODRIGUEZ PE�A 1034",NA,NA,"D2",NA,"",NA,NA
+"LA LAGUNA","BAR ELEMENTO","PERON, EVA AV. Y LAGUNA",NA,NA,"D2","peron eva av y laguna","","peron eva av y laguna","peron eva av y laguna"
+"RAFYS","BAR IDENTIFICADO","CONGRESO AV. Y CRAMER AV.",NA,NA,"D2","congreso av y cramer av","","congreso av y cramer av","congreso av y cramer av"
+"LOS CUATRO ASES","BAR IDENTIFICADO","FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y PORTELA",NA,NA,"D2","fernandez de la cruz f gral av y portela","","fernandez de la cruz f gral av y portela","fernandez de la cruz f gral av y portela"
+"CAFE AVENIDA","BAR IDENTIFICADO","PERON, EVA AV. Y MEDINA",NA,NA,"D2","peron eva av y medina","","peron eva av y medina","peron eva av y medina"
+"EL GARFIO","BAR IDENTIFICADO","DIRECTORIO AV. Y ACOSTA, MARIANO AV.",NA,NA,"D2","directorio av y acosta mariano av","","directorio av y acosta mariano av","directorio av y acosta mariano av"
